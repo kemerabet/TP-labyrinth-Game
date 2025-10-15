@@ -1,4 +1,5 @@
-vous etes dans la chambre de yasmine
+bienvenue chez moi (yasmine) 
+"Un parfum sucré flotte dans l’air. Tout semble paisible… trop paisible. La beauté cache souvent le danger."
  
 <ul>
   <li><a href="foretdestechmed.md">foret des techmed</li>      

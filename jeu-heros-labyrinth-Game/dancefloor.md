@@ -1,4 +1,5 @@
 bienvenue dans le dancefloor 
+"La musique t’envoûte. Danse si tu veux survivre"  "arrête-toi, et les ombres t’engloutiront."
 <ul>
   <li><a href="salledescristaux.md">salle des cristaux</li>      
   </ul>
