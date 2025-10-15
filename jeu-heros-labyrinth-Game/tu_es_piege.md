@@ -1,6 +1,7 @@
 tu es piege 
 <ul>
-  <li>jeu_terminé.md</li>
-  <li>salledescristaux.md</li>
-
-</ul>
+  <li><a href="game_over.md">game over</li>      
+  </ul>
+<ul>
+  <li><a href="salledescristaux.md">salle des cristeau</li>      
+  </ul>
