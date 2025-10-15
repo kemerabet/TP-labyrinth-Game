@@ -7,4 +7,4 @@
 
 
 
-[get started ](jeu-heros-labyrinth-Game/la carte secrète.png) 
+![Description de l’image](jeu-heros-labyrinth-Game/la_carte_secrète.png)
