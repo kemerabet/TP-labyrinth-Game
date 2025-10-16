@@ -5,6 +5,5 @@ Bienvenue à la tour des sorciers
   <li><a href="salledescristaux.md">salle des cristaux</li>      
   </ul>
 <ul>
-<ul>
   <li><a href="dancefloor.md">dance floor</li>      
 </ul>
