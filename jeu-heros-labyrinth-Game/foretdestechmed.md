@@ -1,3 +1,9 @@
-foret des techmed
-[next_yas](la_chambre_de_yasmine.md)
-[next_lescristaux](salledescristaux.md)
+bienvenue chez moi 
+"Une forêt de métal et de circuits. Les arbres murmurent des codes anciens. Ne fais confiance à aucune lumière."
+ 
+<ul>
+  <li><a href="la_chambre_de_yasmine.md">la_chambre_de_yasmine</li>      
+  </ul>
+<ul>
+  <li><a href="salledescristaux.md">salle des cristaux</li>      
+  </ul>
