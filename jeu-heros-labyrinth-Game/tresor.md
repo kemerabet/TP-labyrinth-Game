@@ -17,7 +17,7 @@ Bienvenue, aventurier intrépide ! Le labyrinthe s’éveille à ton arrivée. C
 
 <ul>
 
-&nbsp; <li><a href="la\_chambre\_de\_yasmine.md">revenir en arriere</li>      
+&nbsp; <li><a href="la_chambre_de_yasmine.md">revenir en arriere</li>      
 
 &nbsp; </ul>
 
