@@ -5,7 +5,7 @@ Bienvenue, aventurier intrépide ! Le labyrinthe s’éveille à ton arrivée. C
 
 <ul>
 
-&nbsp; <li><a href="entree\_play.md">REPLAY</li>      
+&nbsp; <li><a href="entree_play.md">REPLAY</li>      
 
 &nbsp; </ul>
 
